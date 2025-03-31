@@ -1,0 +1,7 @@
+{
+    "railsFactoryBotNav.customFactoryPath": {
+        "type": "string",
+        "default": "spec/factories",
+        "description": "Custom path to FactoryBot factories relative to project root"
+    }
+}
