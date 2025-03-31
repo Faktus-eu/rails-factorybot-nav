@@ -1,7 +1,7 @@
 {
   "name": "rails-factorybot-nav",
   "displayName": "Rails FactoryBot Navigator",
-  "description": "Navigate to FactoryBot factory definitions with Ctrl+Click",
+  "description": "Quickly navigate to FactoryBot factory definitions in your Rails tests. Use Ctrl+Click to jump from factory usage to its definition. Supports create, build, and build_stubbed methods. Perfect for Rails testing workflow.",
   "version": "0.0.2",
   "publisher": "faktus",
   "icon": "images/icon.png",
@@ -13,7 +13,24 @@
     "vscode": "^1.80.0"
   },
   "categories": [
-    "Other"
+    "Other",
+    "Programming Languages",
+    "Testing",
+    "Snippets"
+  ],
+  "keywords": [
+    "rails",
+    "ruby",
+    "factorybot",
+    "factory",
+    "test",
+    "testing",
+    "rspec",
+    "navigation",
+    "go to definition",
+    "ruby on rails",
+    "rails testing",
+    "test automation"
   ],
   "activationEvents": [
     "onLanguage:ruby"
